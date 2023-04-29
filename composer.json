@@ -1,0 +1,10 @@
+{
+  "name": "soft-build/hitpay",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Dzmitry Urbanovich",
+      "email": "dev@soft-build.by"
+    }
+  ]
+}
